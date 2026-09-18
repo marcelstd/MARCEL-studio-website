@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marcel-studio-website.yellow-field-c844.workers.dev/sitemap.xml
